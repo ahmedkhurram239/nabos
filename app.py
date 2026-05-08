@@ -4,7 +4,7 @@ warnings.filterwarnings("ignore")
 try:
     os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
 except:
-    os.environ["ANTHROPIC_API_KEY"] = st.secrets.get("ANTHROPIC_API_KEY", "")
+    
 
 import streamlit as st
 import plotly.graph_objects as go
@@ -18,6 +18,12 @@ from nabos.timeseries_engine import TimeSeriesEngine
 from nabos.analytics_engine import AnomalyDetector, EmployeeTrendTracker, DealVelocityTracker, BudgetVsActual
 
 st.set_page_config(page_title="NABOS — Nestlé Pakistan", page_icon="🧠", layout="wide")
+
+# Load API key from Streamlit secrets
+try:
+    os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
+except Exception:
+    pass
 
 @st.cache_resource(show_spinner=False)
 def load_data():
