@@ -23,7 +23,7 @@ st.set_page_config(page_title="NABOS — Nestlé Pakistan", page_icon="🧠", la
 try:
     os.environ["ANTHROPIC_API_KEY"] = st.secrets["ANTHROPIC_API_KEY"]
 except Exception:
-    pass
+    os.environ["ANTHROPIC_API_KEY"] = ""
 
 @st.cache_resource(show_spinner=False)
 def load_data():
