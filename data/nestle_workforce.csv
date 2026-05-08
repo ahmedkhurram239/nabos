@@ -1,0 +1,201 @@
+employee_id,department,tenure_months,performance,workload_score,manager_score,pay_parity,base_salary,churn_prob,is_high_risk
+NP-0001,Manufacturing,25,meets,7.5,10.0,0.97,189372,0.131,0
+NP-0002,Marketing,20,meets,3.2,7.9,1.14,126229,0.02,0
+NP-0003,IT,62,meets,2.7,6.3,1.21,146130,0.02,0
+NP-0004,Supply Chain,34,meets,4.3,7.9,1.1,137134,0.152,0
+NP-0005,Sales,95,meets,6.6,8.2,1.07,110708,0.087,0
+NP-0006,Sales,149,exceeds,8.4,6.6,0.9,110646,0.091,0
+NP-0007,Manufacturing,33,meets,8.4,6.0,1.14,162050,0.152,0
+NP-0008,Finance,12,meets,5.1,6.6,0.95,125711,0.173,0
+NP-0009,Sales,44,exceeds,8.0,8.0,1.09,227516,0.057,0
+NP-0010,Manufacturing,82,meets,8.8,5.8,0.99,94783,0.159,0
+NP-0011,Manufacturing,39,meets,6.4,7.1,1.05,66731,0.134,0
+NP-0012,Manufacturing,30,meets,3.2,8.5,1.1,194791,0.095,0
+NP-0013,Manufacturing,54,below,6.2,5.6,0.99,59585,0.469,0
+NP-0014,Sales,66,meets,5.4,5.1,1.14,108480,0.067,0
+NP-0015,Manufacturing,53,meets,6.9,6.1,0.87,166709,0.394,0
+NP-0016,Sales,79,meets,4.2,5.3,1.09,170947,0.115,0
+NP-0017,Sales,55,meets,4.0,8.1,1.2,120094,0.071,0
+NP-0018,Sales,38,meets,6.7,7.1,0.95,99435,0.113,0
+NP-0019,Supply Chain,22,meets,7.2,5.9,1.02,136123,0.166,0
+NP-0020,Manufacturing,45,meets,5.7,8.1,1.12,142549,0.084,0
+NP-0021,IT,71,meets,2.8,6.9,0.93,172680,0.114,0
+NP-0022,Manufacturing,25,exceeds,7.6,5.5,1.18,130003,0.074,0
+NP-0023,Supply Chain,11,meets,7.1,8.7,1.11,149076,0.253,0
+NP-0024,Manufacturing,100,meets,7.3,7.4,0.99,159701,0.194,0
+NP-0025,Sales,66,exceeds,4.5,7.3,1.1,160421,0.132,0
+NP-0026,Finance,22,meets,6.6,8.4,1.05,130351,0.155,0
+NP-0027,Manufacturing,65,meets,6.0,5.3,0.95,155433,0.154,0
+NP-0028,IT,41,meets,2.2,6.9,1.2,185028,0.035,0
+NP-0029,Sales,21,meets,8.7,7.8,0.87,167383,0.425,0
+NP-0030,Marketing,65,meets,6.0,5.2,1.23,144112,0.088,0
+NP-0031,Manufacturing,89,meets,8.2,7.5,0.86,139527,0.414,0
+NP-0032,Manufacturing,50,below,4.8,7.7,1.14,146114,0.336,0
+NP-0033,Sales,83,exceeds,7.2,7.3,1.07,148692,0.103,0
+NP-0034,Marketing,40,meets,8.4,7.9,1.07,97213,0.115,0
+NP-0035,Marketing,19,meets,6.6,6.9,0.96,102907,0.132,0
+NP-0036,Sales,83,meets,7.8,3.1,1.2,138742,0.178,0
+NP-0037,Finance,42,meets,5.9,7.4,1.1,97568,0.122,0
+NP-0038,Manufacturing,41,meets,5.8,6.6,1.12,193711,0.079,0
+NP-0039,Supply Chain,26,meets,4.8,6.9,0.91,142766,0.101,0
+NP-0040,Supply Chain,12,meets,5.3,5.0,1.06,186384,0.183,0
+NP-0041,Supply Chain,43,meets,6.2,6.0,1.06,130656,0.186,0
+NP-0042,Supply Chain,38,meets,7.7,4.4,1.12,164518,0.144,0
+NP-0043,Sales,57,meets,5.7,8.8,1.01,165288,0.11,0
+NP-0044,Manufacturing,41,meets,8.6,5.6,1.06,163152,0.171,0
+NP-0045,Manufacturing,45,meets,3.1,7.7,1.02,175808,0.142,0
+NP-0046,Sales,52,meets,3.9,7.7,0.99,55374,0.057,0
+NP-0047,Sales,53,meets,8.3,7.1,0.9,159233,0.213,0
+NP-0048,Sales,57,below,3.1,6.9,1.01,164609,0.414,0
+NP-0049,Manufacturing,62,meets,9.1,8.7,0.92,100444,0.202,0
+NP-0050,Sales,118,exceeds,7.8,8.6,1.03,130044,0.086,0
+NP-0051,R&D,38,meets,4.1,5.1,1.15,126972,0.083,0
+NP-0052,Sales,31,meets,3.1,6.0,1.06,175643,0.078,0
+NP-0053,Marketing,57,meets,5.2,5.0,1.13,131095,0.093,0
+NP-0054,Sales,12,meets,4.0,7.0,1.14,123002,0.129,0
+NP-0055,HR,55,exceeds,2.9,7.5,1.16,134262,0.027,0
+NP-0056,Manufacturing,76,meets,3.5,10.0,1.11,194657,0.02,0
+NP-0057,Supply Chain,29,meets,9.1,7.5,1.1,145465,0.189,0
+NP-0058,Supply Chain,25,below,6.8,6.7,1.0,130107,0.476,0
+NP-0059,Supply Chain,68,meets,8.3,6.0,1.04,155310,0.171,0
+NP-0060,Manufacturing,26,meets,6.8,8.7,1.27,113896,0.13,0
+NP-0061,Manufacturing,36,meets,5.8,8.5,1.06,162306,0.191,0
+NP-0062,Supply Chain,33,below,9.9,5.8,0.99,157625,0.61,1
+NP-0063,Marketing,47,meets,7.9,8.7,1.06,115973,0.171,0
+NP-0064,Manufacturing,46,meets,8.2,9.6,1.03,152924,0.08,0
+NP-0065,Manufacturing,69,meets,7.9,5.5,1.12,174364,0.148,0
+NP-0066,Manufacturing,41,meets,7.4,6.2,0.91,149677,0.205,0
+NP-0067,Finance,16,meets,4.9,5.8,0.98,178997,0.162,0
+NP-0068,Marketing,29,meets,5.8,9.9,0.93,102688,0.114,0
+NP-0069,Manufacturing,79,meets,4.1,7.1,1.11,142750,0.047,0
+NP-0070,Manufacturing,37,below,3.0,7.9,1.04,180387,0.409,0
+NP-0071,Finance,45,exceeds,6.4,6.5,1.05,116136,0.093,0
+NP-0072,Supply Chain,51,exceeds,5.7,5.1,1.06,126422,0.107,0
+NP-0073,IT,56,below,6.3,7.6,1.06,147892,0.447,0
+NP-0074,Manufacturing,27,meets,4.1,7.9,0.98,141338,0.107,0
+NP-0075,Supply Chain,23,meets,4.2,6.9,1.04,132195,0.162,0
+NP-0076,Manufacturing,105,meets,2.0,4.0,1.06,85248,0.083,0
+NP-0077,Manufacturing,46,exceeds,7.8,9.0,0.95,129287,0.069,0
+NP-0078,Supply Chain,20,meets,7.8,7.0,1.11,153206,0.149,0
+NP-0079,Supply Chain,39,exceeds,4.8,7.9,1.02,198749,0.057,0
+NP-0080,Sales,5,below,8.0,6.9,0.91,98249,0.71,1
+NP-0081,R&D,24,below,4.0,7.8,1.11,75358,0.28,0
+NP-0082,Sales,34,exceeds,5.7,6.1,1.05,144236,0.118,0
+NP-0083,Marketing,39,below,5.9,7.0,1.12,138768,0.377,0
+NP-0084,Manufacturing,49,meets,4.0,8.0,0.92,158525,0.099,0
+NP-0085,Marketing,22,meets,8.6,6.2,1.0,132787,0.211,0
+NP-0086,Manufacturing,66,meets,0.8,9.3,0.99,146383,0.077,0
+NP-0087,Marketing,98,meets,5.8,7.7,1.17,142425,0.094,0
+NP-0088,Marketing,60,meets,2.2,8.0,1.1,203278,0.085,0
+NP-0089,Marketing,52,meets,4.9,7.2,1.08,180332,0.055,0
+NP-0090,Sales,80,meets,3.4,6.8,1.1,160019,0.089,0
+NP-0091,Marketing,49,below,1.8,9.6,1.18,130998,0.195,0
+NP-0092,Manufacturing,49,below,8.6,8.9,0.86,161113,0.741,1
+NP-0093,IT,16,below,6.2,8.1,0.9,143659,0.404,0
+NP-0094,Marketing,75,meets,2.8,8.8,1.12,132358,0.047,0
+NP-0095,Manufacturing,30,meets,0.8,6.4,1.12,96504,0.086,0
+NP-0096,Supply Chain,41,meets,8.3,8.0,1.23,126564,0.11,0
+NP-0097,IT,91,meets,2.7,6.6,1.11,81736,0.062,0
+NP-0098,Supply Chain,127,meets,7.2,5.2,1.13,177767,0.125,0
+NP-0099,Manufacturing,78,meets,9.7,7.4,0.99,102178,0.206,0
+NP-0100,Manufacturing,33,meets,8.4,7.7,0.96,111152,0.154,0
+NP-0101,Marketing,34,meets,9.1,6.9,1.09,108728,0.203,0
+NP-0102,R&D,38,below,7.4,6.9,1.12,143187,0.374,0
+NP-0103,Sales,24,meets,4.2,4.9,1.01,162502,0.15,0
+NP-0104,Manufacturing,23,meets,4.5,6.4,1.1,176727,0.16,0
+NP-0105,Manufacturing,60,meets,7.0,8.1,0.92,117631,0.204,0
+NP-0106,Sales,49,exceeds,1.6,7.0,1.03,71576,0.065,0
+NP-0107,Manufacturing,70,meets,8.2,7.5,1.05,169113,0.16,0
+NP-0108,Manufacturing,82,meets,6.0,9.0,0.94,145757,0.077,0
+NP-0109,Manufacturing,29,below,5.1,6.7,1.03,149489,0.452,0
+NP-0110,Supply Chain,40,below,7.0,6.8,1.06,106091,0.501,1
+NP-0111,Marketing,68,meets,7.6,7.0,1.23,112184,0.081,0
+NP-0112,Manufacturing,173,exceeds,5.9,8.1,1.02,146323,0.063,0
+NP-0113,Marketing,47,meets,7.9,7.7,1.07,97899,0.141,0
+NP-0114,Sales,81,exceeds,8.5,5.9,0.96,201640,0.114,0
+NP-0115,Supply Chain,52,exceeds,2.3,10.0,1.01,128172,0.043,0
+NP-0116,Manufacturing,63,meets,9.1,3.7,1.08,145588,0.259,0
+NP-0117,Marketing,41,below,7.5,8.8,1.02,117512,0.463,0
+NP-0118,IT,66,exceeds,7.3,7.6,1.16,133112,0.033,0
+NP-0119,Sales,71,below,6.1,4.8,1.11,152318,0.384,0
+NP-0120,R&D,20,meets,8.8,6.4,1.07,85841,0.228,0
+NP-0121,Manufacturing,57,exceeds,7.3,5.8,1.12,133510,0.09,0
+NP-0122,Manufacturing,12,exceeds,1.7,6.4,1.07,171944,0.051,0
+NP-0123,Manufacturing,64,meets,7.9,6.1,1.01,134652,0.22,0
+NP-0124,HR,97,meets,7.8,8.9,1.13,142245,0.072,0
+NP-0125,Sales,51,meets,7.8,7.7,0.92,102622,0.176,0
+NP-0126,Marketing,41,meets,6.1,7.0,1.06,91098,0.192,0
+NP-0127,Supply Chain,68,meets,9.1,5.6,0.96,201485,0.207,0
+NP-0128,Finance,50,meets,3.4,7.7,1.08,109827,0.091,0
+NP-0129,Manufacturing,47,meets,3.0,6.1,1.13,182316,0.084,0
+NP-0130,IT,32,meets,5.5,8.2,0.98,168429,0.17,0
+NP-0131,Sales,42,meets,7.1,9.9,0.99,155084,0.151,0
+NP-0132,Finance,13,meets,6.1,7.3,1.16,118104,0.112,0
+NP-0133,Manufacturing,68,exceeds,8.7,6.6,1.15,161657,0.083,0
+NP-0134,R&D,80,meets,5.4,6.9,1.16,164103,0.095,0
+NP-0135,Sales,83,meets,8.2,7.0,1.02,127241,0.178,0
+NP-0136,Manufacturing,72,meets,9.0,7.1,1.14,60706,0.132,0
+NP-0137,Manufacturing,37,meets,6.6,6.8,0.96,175391,0.16,0
+NP-0138,Supply Chain,50,exceeds,7.0,9.0,0.91,192837,0.027,0
+NP-0139,Manufacturing,30,exceeds,6.3,7.9,1.01,131919,0.068,0
+NP-0140,IT,41,below,7.8,5.0,1.05,146691,0.544,1
+NP-0141,Manufacturing,26,meets,5.1,4.8,0.99,166524,0.156,0
+NP-0142,Sales,30,below,7.5,6.8,0.83,189573,0.784,1
+NP-0143,Sales,19,meets,3.3,8.7,1.14,192189,0.078,0
+NP-0144,Manufacturing,30,meets,8.0,6.7,1.03,129892,0.183,0
+NP-0145,Manufacturing,37,meets,4.6,5.6,1.14,168859,0.12,0
+NP-0146,Manufacturing,60,meets,6.7,9.5,1.06,143713,0.126,0
+NP-0147,Supply Chain,37,below,7.7,7.0,1.02,181238,0.483,0
+NP-0148,Manufacturing,31,meets,7.8,5.8,1.04,133327,0.151,0
+NP-0149,Sales,54,meets,6.9,7.8,0.99,97513,0.13,0
+NP-0150,Marketing,65,meets,5.5,7.3,1.03,165847,0.175,0
+NP-0151,Sales,24,meets,7.8,5.1,1.12,136411,0.106,0
+NP-0152,Marketing,48,below,8.0,7.1,1.04,130228,0.527,1
+NP-0153,Marketing,30,meets,7.0,7.1,1.21,111803,0.052,0
+NP-0154,HR,32,meets,5.9,4.1,0.99,172079,0.135,0
+NP-0155,Marketing,15,exceeds,6.1,8.2,1.01,122452,0.037,0
+NP-0156,Sales,64,meets,8.0,6.1,0.98,133165,0.192,0
+NP-0157,Manufacturing,19,meets,4.6,7.2,1.05,87449,0.142,0
+NP-0158,Supply Chain,45,exceeds,6.8,6.8,1.1,128064,0.09,0
+NP-0159,Sales,57,meets,1.8,5.1,0.98,141382,0.108,0
+NP-0160,Supply Chain,36,exceeds,6.5,8.8,1.06,185457,0.07,0
+NP-0161,Sales,32,meets,5.2,8.1,0.98,118198,0.108,0
+NP-0162,Finance,51,meets,6.5,5.8,1.12,126066,0.102,0
+NP-0163,Supply Chain,6,meets,5.6,7.0,1.04,153508,0.308,0
+NP-0164,Manufacturing,33,meets,5.9,5.8,1.12,125908,0.115,0
+NP-0165,Marketing,81,meets,6.5,7.2,1.07,108205,0.131,0
+NP-0166,HR,129,below,8.9,8.2,1.02,98076,0.517,1
+NP-0167,IT,19,meets,3.7,5.6,1.13,113997,0.093,0
+NP-0168,IT,48,meets,3.5,5.0,0.92,202024,0.147,0
+NP-0169,Manufacturing,52,meets,3.7,7.5,1.01,167199,0.11,0
+NP-0170,Marketing,119,meets,5.3,4.0,0.91,143530,0.148,0
+NP-0171,Finance,42,meets,9.3,9.8,0.96,93374,0.193,0
+NP-0172,Manufacturing,36,exceeds,3.3,9.0,0.98,125519,0.048,0
+NP-0173,Sales,6,exceeds,5.1,5.2,1.14,126743,0.154,0
+NP-0174,Manufacturing,35,meets,9.2,7.6,1.12,123518,0.092,0
+NP-0175,Sales,27,below,8.8,7.4,1.08,133314,0.516,1
+NP-0176,Marketing,101,meets,2.3,7.4,1.11,183480,0.074,0
+NP-0177,Manufacturing,41,exceeds,5.8,6.5,1.0,156728,0.108,0
+NP-0178,Manufacturing,63,below,4.4,5.0,1.05,109104,0.373,0
+NP-0179,HR,46,meets,3.6,7.7,0.99,166168,0.133,0
+NP-0180,Manufacturing,67,meets,6.3,5.0,1.11,141573,0.14,0
+NP-0181,Manufacturing,35,meets,8.6,5.6,0.9,179281,0.176,0
+NP-0182,Sales,41,exceeds,8.7,5.5,1.1,139197,0.155,0
+NP-0183,Manufacturing,39,meets,8.1,8.1,0.92,118414,0.196,0
+NP-0184,Sales,22,below,6.9,6.4,0.84,90417,0.765,1
+NP-0185,Marketing,6,exceeds,9.2,5.5,1.12,212324,0.178,0
+NP-0186,Marketing,42,exceeds,8.0,5.0,1.05,137359,0.099,0
+NP-0187,Manufacturing,47,meets,4.4,7.2,0.98,145633,0.148,0
+NP-0188,Marketing,38,meets,8.2,6.9,0.98,151568,0.148,0
+NP-0189,Sales,48,below,7.3,7.8,0.86,98638,0.765,1
+NP-0190,Marketing,38,exceeds,6.3,8.1,0.99,113761,0.055,0
+NP-0191,IT,39,below,7.3,6.4,0.98,122412,0.557,1
+NP-0192,Manufacturing,41,exceeds,3.3,8.1,1.12,137804,0.02,0
+NP-0193,Manufacturing,18,exceeds,7.7,8.3,1.0,113687,0.098,0
+NP-0194,Manufacturing,29,meets,6.9,6.9,1.0,143486,0.178,0
+NP-0195,Manufacturing,44,meets,4.3,5.9,1.01,141142,0.098,0
+NP-0196,Sales,50,meets,2.5,8.1,1.02,125581,0.106,0
+NP-0197,Finance,40,below,7.9,4.9,1.05,133852,0.542,1
+NP-0198,Manufacturing,81,below,6.3,4.5,1.04,166728,0.501,1
+NP-0199,Manufacturing,52,meets,5.6,10.0,1.01,194555,0.114,0
+NP-0200,Sales,27,meets,5.0,5.9,0.97,171713,0.114,0

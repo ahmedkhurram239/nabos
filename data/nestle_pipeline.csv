@@ -1,0 +1,61 @@
+deal_id,company,vertical,size,deal_value,stage,probability,expected_close,days_in_stage,rep,has_champion,has_competitor,n_touchpoints,weighted_value
+NP2000,Lahore-HoReCa-2000,HoReCa,Medium,42201.0,Qualified,0.473,2025-03-15,4,RM-01,0,1,5,19964.74
+NP2001,Faisalabad-General Trade-2001,General Trade,Small,1783.0,Qualified,0.47,2025-03-07,40,RM-05,1,1,12,838.41
+NP2002,Multan-Exports-2002,Exports,Large,226642.0,Lead,0.065,2025-03-27,35,RM-13,0,0,14,14786.36
+NP2003,Faisalabad-Modern Trade-2003,Modern Trade,Large,64490.0,Lead,0.124,2025-04-03,27,RM-09,1,0,14,7976.31
+NP2004,Faisalabad-General Trade-2004,General Trade,Medium,49998.0,Qualified,0.41,2025-02-22,22,RM-03,1,0,6,20515.85
+NP2005,Multan-Modern Trade-2005,Modern Trade,Large,562966.0,Negotiation,0.763,2025-01-17,39,RM-10,0,1,8,429534.65
+NP2006,Peshawar-HoReCa-2006,HoReCa,Medium,109208.0,Lead,0.27,2025-03-31,42,RM-08,1,0,5,29436.33
+NP2007,Karachi-HoReCa-2007,HoReCa,Small,7779.0,Lead,0.081,2025-04-04,28,RM-03,0,0,13,630.87
+NP2008,Islamabad-Modern Trade-2008,Modern Trade,Large,675394.0,Qualified,0.356,2025-02-22,6,RM-14,0,0,4,240316.99
+NP2009,Multan-General Trade-2009,General Trade,Medium,37171.0,Qualified,0.482,2025-03-20,23,RM-10,0,1,8,17931.06
+NP2010,Islamabad-General Trade-2010,General Trade,Small,3433.0,Qualified,0.372,2025-02-24,18,RM-01,1,1,14,1277.65
+NP2011,Peshawar-HoReCa-2011,HoReCa,Medium,160180.0,Lead,0.188,2025-03-27,13,RM-01,1,0,10,30039.68
+NP2012,Lahore-HoReCa-2012,HoReCa,Small,3722.0,Negotiation,0.732,2025-02-01,4,RM-13,1,1,10,2724.26
+NP2013,Lahore-Modern Trade-2013,Modern Trade,Large,81362.0,Proposal,0.549,2025-01-31,40,RM-13,1,1,4,44651.14
+NP2014,Faisalabad-Institutional-2014,Institutional,Large,433851.0,Lead,0.187,2025-04-05,16,RM-06,1,1,10,81122.15
+NP2015,Karachi-Exports-2015,Exports,Small,6031.0,Qualified,0.32,2025-02-21,9,RM-01,0,0,6,1928.67
+NP2016,Karachi-HoReCa-2016,HoReCa,Small,31363.0,Lead,0.117,2025-04-11,43,RM-14,0,1,9,3678.87
+NP2017,Faisalabad-General Trade-2017,General Trade,Large,143344.0,Lead,0.133,2025-04-07,29,RM-04,1,1,8,18997.17
+NP2018,Faisalabad-General Trade-2018,General Trade,Large,9684.0,Qualified,0.433,2025-03-13,27,RM-04,1,1,13,4191.87
+NP2019,Karachi-HoReCa-2019,HoReCa,Small,16377.0,Proposal,0.525,2025-01-27,28,RM-03,0,0,6,8604.88
+NP2020,Peshawar-Institutional-2020,Institutional,Small,8938.0,Qualified,0.371,2025-02-20,38,RM-05,0,0,13,3315.69
+NP2021,Multan-General Trade-2021,General Trade,Large,497886.0,Proposal,0.577,2025-01-28,34,RM-02,1,1,18,287117.93
+NP2022,Islamabad-Institutional-2022,Institutional,Medium,66833.0,Negotiation,0.793,2025-01-25,29,RM-09,1,0,15,52981.99
+NP2023,Lahore-Modern Trade-2023,Modern Trade,Medium,14641.0,Qualified,0.383,2025-03-19,31,RM-10,1,0,8,5609.34
+NP2024,Peshawar-HoReCa-2024,HoReCa,Large,16963.0,Lead,0.198,2025-03-23,34,RM-07,0,0,16,3360.61
+NP2025,Peshawar-Modern Trade-2025,Modern Trade,Small,5288.0,Negotiation,0.773,2025-02-01,17,RM-12,0,0,13,4086.87
+NP2026,Karachi-HoReCa-2026,HoReCa,Small,4273.0,Lead,0.063,2025-03-24,30,RM-05,1,1,14,269.72
+NP2027,Multan-Exports-2027,Exports,Medium,22052.0,Qualified,0.359,2025-02-26,29,RM-13,1,0,13,7906.13
+NP2028,Multan-General Trade-2028,General Trade,Large,251382.0,Qualified,0.351,2025-02-22,32,RM-06,1,0,15,88208.25
+NP2029,Faisalabad-Modern Trade-2029,Modern Trade,Large,618561.0,Proposal,0.566,2025-02-08,17,RM-08,0,0,12,350081.79
+NP2030,Multan-Exports-2030,Exports,Small,5868.0,Proposal,0.489,2025-02-23,3,RM-05,0,0,16,2870.26
+NP2031,Lahore-General Trade-2031,General Trade,Small,5501.0,Qualified,0.367,2025-02-28,37,RM-07,1,0,7,2018.1
+NP2032,Peshawar-HoReCa-2032,HoReCa,Large,262290.0,Proposal,0.681,2025-02-14,34,RM-11,1,0,7,178490.46
+NP2033,Multan-Modern Trade-2033,Modern Trade,Medium,159360.0,Proposal,0.726,2025-02-02,27,RM-14,1,0,6,115756.61
+NP2034,Karachi-HoReCa-2034,HoReCa,Small,10974.0,Qualified,0.386,2025-03-04,40,RM-09,1,1,12,4233.13
+NP2035,Karachi-General Trade-2035,General Trade,Medium,71012.0,Negotiation,0.831,2025-02-03,19,RM-04,1,1,12,59045.73
+NP2036,Faisalabad-General Trade-2036,General Trade,Medium,54558.0,Proposal,0.535,2025-02-03,43,RM-02,0,1,7,29166.19
+NP2037,Multan-HoReCa-2037,HoReCa,Small,7900.0,Qualified,0.381,2025-03-07,42,RM-08,0,1,12,3008.36
+NP2038,Multan-General Trade-2038,General Trade,Small,4296.0,Proposal,0.56,2025-02-09,14,RM-13,0,0,16,2405.39
+NP2039,Multan-General Trade-2039,General Trade,Medium,15135.0,Negotiation,0.855,2025-01-12,4,RM-03,1,1,8,12945.45
+NP2040,Islamabad-HoReCa-2040,HoReCa,Small,10552.0,Negotiation,0.849,2025-01-08,43,RM-08,1,0,5,8955.72
+NP2041,Faisalabad-HoReCa-2041,HoReCa,Medium,15613.0,Qualified,0.355,2025-02-21,15,RM-02,1,1,18,5545.23
+NP2042,Lahore-HoReCa-2042,HoReCa,Small,2813.0,Lead,0.05,2025-03-27,15,RM-03,1,1,9,141.72
+NP2043,Islamabad-General Trade-2043,General Trade,Small,4562.0,Qualified,0.418,2025-03-19,32,RM-02,1,0,7,1907.65
+NP2044,Multan-Modern Trade-2044,Modern Trade,Large,70843.0,Proposal,0.458,2025-01-28,4,RM-07,1,0,10,32448.94
+NP2045,Faisalabad-Modern Trade-2045,Modern Trade,Large,191017.0,Proposal,0.623,2025-02-14,44,RM-12,1,0,3,119090.03
+NP2046,Islamabad-Modern Trade-2046,Modern Trade,Large,159828.0,Proposal,0.578,2025-02-05,7,RM-03,0,0,16,92405.91
+NP2047,Karachi-Modern Trade-2047,Modern Trade,Large,81184.0,Qualified,0.38,2025-03-11,6,RM-06,0,1,11,30841.11
+NP2048,Peshawar-HoReCa-2048,HoReCa,Large,843715.0,Negotiation,0.834,2025-01-15,24,RM-03,1,1,15,703830.23
+NP2049,Peshawar-Modern Trade-2049,Modern Trade,Medium,37957.0,Qualified,0.419,2025-02-28,43,RM-14,1,1,8,15899.96
+NP2050,Lahore-General Trade-2050,General Trade,Medium,26843.0,Lead,0.051,2025-04-09,27,RM-07,1,0,6,1374.77
+NP2051,Islamabad-Institutional-2051,Institutional,Small,4963.0,Negotiation,0.834,2025-02-04,44,RM-14,1,0,8,4141.01
+NP2052,Faisalabad-Institutional-2052,Institutional,Medium,20629.0,Lead,0.194,2025-04-14,43,RM-04,0,0,17,4003.72
+NP2053,Multan-Exports-2053,Exports,Large,35214.0,Proposal,0.726,2025-02-16,28,RM-14,1,0,14,25550.32
+NP2054,Peshawar-Modern Trade-2054,Modern Trade,Small,6853.0,Lead,0.137,2025-04-05,28,RM-10,1,0,9,942.15
+NP2055,Multan-Exports-2055,Exports,Small,5293.0,Negotiation,0.682,2025-01-27,10,RM-14,0,1,10,3611.73
+NP2056,Faisalabad-Modern Trade-2056,Modern Trade,Large,410536.0,Lead,0.154,2025-03-30,44,RM-03,1,0,7,63152.36
+NP2057,Karachi-General Trade-2057,General Trade,Large,1012083.0,Lead,0.053,2025-03-24,35,RM-11,1,1,6,53794.19
+NP2058,Peshawar-Modern Trade-2058,Modern Trade,Medium,25585.0,Proposal,0.6,2025-02-03,21,RM-11,1,0,13,15353.65
+NP2059,Karachi-General Trade-2059,General Trade,Small,8917.0,Qualified,0.502,2025-03-04,17,RM-05,1,1,6,4474.33

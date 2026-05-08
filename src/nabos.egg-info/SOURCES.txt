@@ -1,0 +1,5 @@
+setup.py
+src/nabos.egg-info/PKG-INFO
+src/nabos.egg-info/SOURCES.txt
+src/nabos.egg-info/dependency_links.txt
+src/nabos.egg-info/top_level.txt
